@@ -77,7 +77,8 @@ let questions = [
         counter++;
       }
     }
-    alert("Siz: " + counter + " ta savolga to`g`ri javob berdingiz");
+    
+    alert("Siz: " + counter + " ta savolga to`g`ri javob berdingiz" );
   }
   function getQuestionsList(questions) {
     let questionsLest = "";
